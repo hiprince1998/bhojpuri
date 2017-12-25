@@ -1,0 +1,8 @@
+{
+  "name": "bhojpuri",
+  "app_id": "26488cde",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
